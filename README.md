@@ -11,8 +11,8 @@ var xdt = require('node-xdt');
 
 var options = {
 	 src: '{path}/Web.config',
-     dest: '{outpath}/Web.Release.config',
-     transform:'{path}/Web.config'
+     dest: '{outpath}/Web.config',
+     transform:'{path}/Web.Release.config'
 };
 
 xdt(options,function(error){

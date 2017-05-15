@@ -1,6 +1,6 @@
 {
   "name": "node-xdt",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Node.js module to transform Web.config(XML) using xdt(Microsoft Xml Document Transformation) — Edit",
   "main": "index.js",
   "directories": {
